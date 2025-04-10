@@ -5,7 +5,7 @@ This repo is intended for awesome list of A2A servers released by Google A2A pro
 [MCP Servers List](http://www.deepnlp.org/store/ai-agent/mcp-server) <br>
 [Agent Search Engine](http://www.deepnlp.org/search/agent) Find Awesome AI Agent
 
-![A2A Actors](https://google.github.io/A2A/images/a2a_actors.png)
+![A2A Actors](https://github.com/google/A2A/blob/main/images/a2a_demo_arch.png))
 
 ## List of Awesome A2A Servers
 [**Google ADK**](https://github.com/google/A2A/blob/main/samples/python/agents/google_adk) 
