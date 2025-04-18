@@ -16,4 +16,10 @@ Sample agent which can convert currency using tools. Showcases multi-turn intera
 
 [**CrewAI**](https://github.com/google/A2A/tree/main/samples/python/agents/crewai) Sample agent which can generate images. Showcases multi-turn interactions and sending images through A2A.
 
+[**A2A agent implementing OpenDeepResearch**](https://github.com/iamarcel/deep-research-agent)
+
+[**a2a-agent-coder**](https://github.com/sing1ee/a2a-agent-coder)
+
+[**Python A2A**](https://github.com/themanojdesai/python-a2a)
+Python A2A is a powerful, easy-to-use library for implementing Google's [Agent-to-Agent (A2A) protocol](https://google.github.io/A2A/). It enables seamless communication between AI agents, creating interoperable agent ecosystems that can collaborate to solve complex problems.
 
